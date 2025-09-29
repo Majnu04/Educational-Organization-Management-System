@@ -42,11 +42,12 @@ It simplifies **student admissions, academic progress tracking, and section mana
 
 ##  Screenshots
  
-![Admission Form](<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/08a8dbbe-ee37-4622-a647-4d8b6cc95fa0" />
-,<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/9fa34b5d-c2e3-45f3-b940-094b11c856f8" />
+[Admission Form](<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/08a8dbbe-ee37-4622-a647-4d8b6cc95fa0" />
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/9fa34b5d-c2e3-45f3-b940-094b11c856f8" />)
 )  
-![Salesforce Form](<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/ad48cbc6-de29-4ecb-b11c-fe8252ec2f82" />,<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/682fe5a2-708c-493f-8f8a-625299e0f1cd" />)
-![Student Progress Form](<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/d23c6914-e7a8-4f43-adbf-a824d409475a" />)
+[Salesforce Form](<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/ad48cbc6-de29-4ecb-b11c-fe8252ec2f82" /><img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/682fe5a2-708c-493f-8f8a-625299e0f1cd" />)
+[Student Progress Form](<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/4c18f894-f71d-4899-9fa5-b0fa95f233db" />
+)
 
 
 
